@@ -1191,7 +1191,6 @@
   <block id="af7c4c7bd30238dcb53e639cf7a50996" category="cell">Stringa JSON contenente l'identificatore UUIDv4 dell'id utente che ha creato la risorsa. Se la risorsa è stata creata da un componente di sistema interno e non esiste un UUID associato all'entità di creazione, viene utilizzato l'UID *null*.</block>
   <block id="6cb8b958a36383ed1b7bacc626d0a5dd" category="paragraph-title">Stato della risorsa</block>
   <block id="b7aa38141b9dd3f7e78cd09e7f60ce0c" category="paragraph">Risorse selezionate a<block ref="9ed39e2ea931586b6a985a6942ef573e" prefix=" " category="inline-code"></block> valore utilizzato per orchestrare le transizioni del ciclo di vita e controllare l'accesso.</block>
-  <block id="1045f2798351223896fdab281a8307eb" category="sidebar">Documentazione di Astra Control Automation</block>
   <block id="93168a8084b3e838d2932c4734bd234e" category="sidebar">Versioni precedenti</block>
   <block id="be11c74c1dd7f307bb80183a90dc2067" category="sidebar">Inizia subito</block>
   <block id="3b878279a04dc47d60932cb294d96259" category="sidebar">Panoramica</block>
@@ -1231,4 +1230,5 @@
   <block id="b99e07f4bea810f88b69ecfe1784ab28" category="sidebar">Elencare i cloud</block>
   <block id="b65e59022e022b723c1c1fbb73cd0092" category="sidebar">Elenca bucket</block>
   <block id="157ecd713825d83c3595df6b4c0c11af" category="sidebar">Accedere al documento di riferimento</block>
+  <block id="8f5acd94867d6ae4b479db02c3a9b834" category="sidebar">Documentazione di Astra Control Automation 23.04</block>
 </blocks>
